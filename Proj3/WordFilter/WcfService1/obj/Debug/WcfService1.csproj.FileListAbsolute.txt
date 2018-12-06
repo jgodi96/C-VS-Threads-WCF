@@ -1,0 +1,7 @@
+C:\Users\jdgodine\Desktop\RequiredServices\WordFilter\WcfService1\bin\WcfService1.dll.config
+C:\Users\jdgodine\Desktop\RequiredServices\WordFilter\WcfService1\bin\WcfService1.dll
+C:\Users\jdgodine\Desktop\RequiredServices\WordFilter\WcfService1\bin\WcfService1.pdb
+C:\Users\jdgodine\Desktop\RequiredServices\WordFilter\WcfService1\obj\Debug\WcfService1.csprojAssemblyReference.cache
+C:\Users\jdgodine\Desktop\RequiredServices\WordFilter\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\Users\jdgodine\Desktop\RequiredServices\WordFilter\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\jdgodine\Desktop\RequiredServices\WordFilter\WcfService1\obj\Debug\WcfService1.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarService", "SolarService\SolarService.csproj", "{D79C4776-9C25-402C-AD11-90410DB4CED2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tryIt", "tryIt\tryIt.csproj", "{5969C2CA-EDFE-44FC-9245-0C9521D90A74}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D79C4776-9C25-402C-AD11-90410DB4CED2} = {D79C4776-9C25-402C-AD11-90410DB4CED2}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D79C4776-9C25-402C-AD11-90410DB4CED2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D79C4776-9C25-402C-AD11-90410DB4CED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D79C4776-9C25-402C-AD11-90410DB4CED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D79C4776-9C25-402C-AD11-90410DB4CED2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5969C2CA-EDFE-44FC-9245-0C9521D90A74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5969C2CA-EDFE-44FC-9245-0C9521D90A74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5969C2CA-EDFE-44FC-9245-0C9521D90A74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5969C2CA-EDFE-44FC-9245-0C9521D90A74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99B8F014-94AC-4B66-ACB0-F887C9CB6B9C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\jdgodine\Desktop\WindEnergy\WeatherService\WcfService1\bin\WcfService1.dll.config
+C:\Users\jdgodine\Desktop\WindEnergy\WeatherService\WcfService1\bin\WcfService1.dll
+C:\Users\jdgodine\Desktop\WindEnergy\WeatherService\WcfService1\bin\WcfService1.pdb
+C:\Users\jdgodine\Desktop\WindEnergy\WeatherService\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\Users\jdgodine\Desktop\WindEnergy\WeatherService\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\jdgodine\Desktop\WindEnergy\WeatherService\WcfService1\obj\Debug\WcfService1.pdb

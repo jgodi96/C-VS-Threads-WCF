@@ -1,0 +1,10 @@
+C:\Users\jdgodine\Desktop\RequiredServices\SolarEnergy\SolarService\bin\SolarService.dll.config
+C:\Users\jdgodine\Desktop\RequiredServices\SolarEnergy\SolarService\bin\SolarService.dll
+C:\Users\jdgodine\Desktop\RequiredServices\SolarEnergy\SolarService\bin\SolarService.pdb
+C:\Users\jdgodine\Desktop\RequiredServices\SolarEnergy\SolarService\bin\Newtonsoft.Json.dll
+C:\Users\jdgodine\Desktop\RequiredServices\SolarEnergy\SolarService\bin\Newtonsoft.Json.xml
+C:\Users\jdgodine\Desktop\RequiredServices\SolarEnergy\SolarService\obj\Debug\SolarService.csprojAssemblyReference.cache
+C:\Users\jdgodine\Desktop\RequiredServices\SolarEnergy\SolarService\obj\Debug\SolarService.csproj.CoreCompileInputs.cache
+C:\Users\jdgodine\Desktop\RequiredServices\SolarEnergy\SolarService\obj\Debug\SolarService.csproj.CopyComplete
+C:\Users\jdgodine\Desktop\RequiredServices\SolarEnergy\SolarService\obj\Debug\SolarService.dll
+C:\Users\jdgodine\Desktop\RequiredServices\SolarEnergy\SolarService\obj\Debug\SolarService.pdb
